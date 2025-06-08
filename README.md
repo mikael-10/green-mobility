@@ -54,7 +54,7 @@ It includes both **survey-based insights** and **real-world dataset analysis**, 
 
 > _Placeholder image until updated screenshots are added_
 
-![Green Mobility Dashboard](https://raw.githubusercontent.com/mikael-10/green-mobility/main/assets/img/projects/project3.webp)
+![Green Mobility Dashboard](https://raw.githubusercontent.com/mikael-10/personal-portfolio/main/assets/img/projects/project3.webp)
 
 ---
 
