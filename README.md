@@ -43,9 +43,10 @@ It includes both **survey-based insights** and **real-world dataset analysis**, 
   [View Report (PDF)](https://mikael-10.github.io/green-mobility/docs/green-mobility.pdf)
 
 - 🌐 **Live Project Pages:**  
-  [Green Mobility on GitHub Pages](https://mikael-10.github.io/green-mobility/)
+
   [Green Mobility Project in Portfolio](https://mikael-10.github.io/personal-portfolio/portfolio-3-col.html#project3)
-  [Featured Project in Portfolio](https://mikael-10.github.io/personal-portfolio/index.html#project3)
+
+  [Featured Projects in Portfolio](https://mikael-10.github.io/personal-portfolio/index.html#project3)
 
 - 🛠 **Source Code:**  
   [GitHub Repository](https://github.com/mikael-10/green-mobility)
