@@ -45,7 +45,6 @@ It includes both **survey-based insights** and **real-world dataset analysis**, 
 - 🌐 **Live Project Pages:**  
 
   [Green Mobility Project in Portfolio](https://mikael-10.github.io/personal-portfolio/portfolio-3-col.html#project3)
-
   [Featured Projects in Portfolio](https://mikael-10.github.io/personal-portfolio/index.html#project3)
 
 - 🛠 **Source Code:**  
